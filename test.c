@@ -1,3 +1,4 @@
+/**c语言实现归并排序，顺序存储结构**/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
